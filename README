@@ -1,0 +1,11 @@
+VIOLASv2 is a GUI-driven data analysis suite written from the ground up in Python. Utilizing Tkinter for the GUI and NumPy, SciPy and MatPlotLib for data analysis, VIOLAS helped provide Colby College's Psychology Department with a customizable way to import, view and analyze experiment data across multiple dimensions.
+
+VIOLASv2 has a custom-built 3D viewing pipeline complete with keybind and gesture support, and incorporates aspects of data analysis such as PCA, k-Means Clustering and a handful of simpler (but necessary) analysis algorithms.
+
+VIOLASv2 was built to run on school laboratory Mac OS X machines over the course of the spring semester 2011 at Colby College by Nicholas Balsbaugh and Alexander Swanson as part of a Data Visualization and Analysis course.
+
+Required Packages:
+	- Tkinter
+	- SciPy
+	- NumPy
+	- MatPlotLib
